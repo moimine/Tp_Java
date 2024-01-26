@@ -1,6 +1,15 @@
 public class Main {
     public static void main(String[] args) {
 
+          /*test de la classe Exercice1
+        Exercice1 ma=new Exercice1(25,"toto",18.5F);
+        ma.setMonNom("Toto Ti");
+        ma.setMonId(4578);
+        ma.setMaMoyennne(19.75F);
+        System.out.println("mon nom: "+ma.getMonNom()+" , mon id: "+ma.getMonId()+" et ma moyenne: "+ma.getMaMoyennne());
+        */
+
+
         groupe groupe1=new groupe("TIC-G1");
         System.out.println(groupe1.toString());
 
